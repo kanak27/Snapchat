@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Snapchat</string>
+    <string name="create_snap">Create Snap</string>
+    <string name="logout">Logout</string>
+</resources>
